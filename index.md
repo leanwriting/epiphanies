@@ -13,4 +13,6 @@ That's where Lean Coffee Hot Takes come in - a simple blog to post notes about a
 
 Take a look at the post linsk, contribute more with a pull request, or comment on posts.  Just take advantage of the platform and hopefully leverage what it has to offer!
 
+[Posts](http://hottakes.leanwriting.org/posts/)
+
 Take a look at [https://github.com/leanwriting/hot_takes](https://github.com/leanwriting/hot_takes) for more info!

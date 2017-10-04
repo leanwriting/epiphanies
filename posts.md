@@ -2,6 +2,6 @@
 
 layout: home
 title: Posts
-permalink: /Posts/
+permalink: /posts/
 
 ---
