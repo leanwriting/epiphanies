@@ -7,11 +7,11 @@ permalink: /
 
 What are lean coffee epiphanies?
 
-You love lean coffee [#leancoffee](https://twitter.com/hashtag/leancoffee)! All those great ideas that came bubbling up as epiphanies should be better shared with humanity.  Sure, they might be jotted down as an epifphany, and you might save some notes or post a picture from a meeting - but those great thoughts deserve a wider audience!
+You love [#leancoffee](https://twitter.com/hashtag/leancoffee)! All those great ideas that came bubbling up as epiphanies should be better shared with humanity.  Sure, they might be jotted down and added as a post-it, and you might save some notes or post a picture from a meeting - but those great thoughts deserve a wider audience!
 
-That's where Lean Coffee Epiphanies come in - a simple blog to post notes about a lean coffee topic that deserve a hot take and a discussion..
+That's where Lean Coffee Epiphanies come in - a simple blog to post about a lean coffee topic that deserve a discussion and a hot take.
 
-Take a look at the post linsk, contribute more with a pull request, or comment on posts.  Just take advantage of the platform and hopefully leverage what it has to offer!
+Take a look at the post links, edit or contribute more with a pull request, or just leave a comment on posts.  This platform allows for many contributors and authors - because everyone has a different take and opinion.  Most importanly, take advantage of the platform and hopefully leverage what it has to offer!
 
 [Posts](http://epiphanies.leanwriting.org/posts/)
 
