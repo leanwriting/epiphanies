@@ -7,24 +7,28 @@ categories: lean
 
 ---
 
-# The 1st hot take!
+**The 1st lean coffee epiphan/hot take!**
 
-The Overnight Dynamic Change of a Smaller Team
+Your team just went through a dramatic change - from 12 members down to 7.
+While the remaining team anticipated the negative effects of a change - the
+actual results were for the better!
 
-A team just went through a dramatic change - from 12 members down to 7.  While the remaining team anticipated the negative effects of the change - the results of the actual change were for the better!
+So some change can be good, but it's not guaranteed.   You never want to force
+change on a team, but natural changes can have some great benefits:
 
-TODO... Finish
+- Allows other team members to grow as they'll have more opportunity.
+- Maybe the change could result in a more-optimal size.
+- Promoting voluntary team changes can better grow your team members.
 
-Pros and Cons of team changes
+Pros/Cons/Thoughts on team change:
 
-- benefits of semi-permanent teams
-- 10-20% change vs 50%-70 change
-- does it make sense to purposely change up teams?
-- team dynamics change and team robustness
-- purposeful changing teams might create more T-shaped (or M-shaped/graph-shaped) people vs specialists
-- takes investment when people switch roles - are orgs willing to make that investment
+- You don't want too dramatic a change.  There's a benefits of "semi-permanent
+  teams" that bring consistency from project to project.
+- 10-20% change is usually much less distruptive than a 50%-70 change.
+- Does it make sense to purposely change up teams?  Changing a team might make
+  for more T-shape (or M-shaped, or graph-shaped) teammates - all of which might
+  be more effective team members
+- It does take investment for people to switch switch teams/roles - Orgs willing
+  to make that investment should weight the costs/benefits
 
-Will changing who's on a team affect metrics?  It shouldn't. Metrics shouldn't be focused on a particular person.  
-
-
-
+Will changing who's on a team affect metrics?  It shouldn't. Metrics shouldn't be focused on a particular person.
